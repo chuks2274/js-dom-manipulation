@@ -20,6 +20,6 @@ This repository contains small JavaScript projects built to demonstrate DOM mani
 ## How to Clone
 
 ```bash
-git clone https://github.com/your-username/javascript-fundamentals.git
+git clone https://github.com/chuks2274/js-dom-manipulation.git
 
-cd javascript-fundamentals
+cd js-dom-manipulation
